@@ -13,7 +13,7 @@ import java.util.Scanner;
 //This program takes a regular expression provided by the user and takes strings inputted by the user to test against
 //the regular expression, outputing either true or false if the string matches the pattern.
 
-public class RegexEngine {
+public class RegularExpressionParser {
 
     //Tests whether the regular expression provided by the user is syntactically correct
     //Takes in a regular expression string and returns either true or false if the pattern is correct or not
